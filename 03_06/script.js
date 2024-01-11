@@ -22,3 +22,9 @@ const backpack = {
 };
 
 console.log("The backpack object:", backpack);
+
+console.log("Some dotProp:", backpack.color);
+
+console.log("Another dotProp:", backpack.strapLength.right);
+
+console.log("Some bracketProp:", backpack["color"]);

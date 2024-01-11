@@ -4,10 +4,10 @@
  */
 
 const greenPack = {
-  name: "Frog Pack",
-  color: "green",
-  volume: 8,
-  pocketNum: 3,
+  name: "Smog Pack",
+  color: "grey",
+  volume: 100,
+  pocketNum: 4,
 };
 
 const addPack = function (currentPack) {
